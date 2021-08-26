@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/ibehnia/.dotnet/store/|arch|/|tfm|",
+      "/home/ibehnia/.nuget/packages"
+    ]
+  }
+}
